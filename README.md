@@ -1,8 +1,56 @@
-# React + Vite
+# iPhone UI Clone
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A sleek and modern **iPhone UI Clone** built using **React** and **Tailwind CSS**.  
+This project focuses purely on **UI design** (no backend or database) to showcase front-end skills, animations, and responsive layouts.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Live Demo
+
+Check out the live version [here](#) (https://magnificent-sopapillas-d4ec3f.netlify.app/).
+
+---
+
+## ✨ Features
+
+- Fully responsive **iPhone-inspired UI**.
+- Built with **React** functional components.
+- Styled entirely using **Tailwind CSS** utility classes.
+- Smooth layout with a clean, minimal design.
+- Easy to extend and customize for practice or real projects.
+
+---
+
+## 🛠️ Tech Stack
+
+- **React** — Component-based UI.
+- **Tailwind CSS** — Utility-first styling framework.
+
+---
+
+## 📂 Project Structure
+
+iphone/
+├── public/
+│ └── index.html
+├── src/
+│ ├── components/
+│ │ └── (UI components here)
+│ ├── App.jsx
+│ ├── index.js
+│ └── index.css
+├── package.json
+└── tailwind.config.js
+
+
+---
+
+## ⚡ Installation & Setup
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/ChouhanAkash/iphone.git
+   cd iphone
+
+## Demo Link 
+https://magnificent-sopapillas-d4ec3f.netlify.app/
